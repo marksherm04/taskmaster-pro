@@ -6,5 +6,5 @@
 - CSS
 - JavaScript
 
-_Made by Mark Sherman_
+**_Created by Mark Sherman_**
 
