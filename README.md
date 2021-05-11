@@ -2,9 +2,9 @@
 
 ## Made with:
 
-##### HTML
-##### CSS
-##### JavaScript
+- HTML
+- CSS
+- JavaScript
 
 _Made by Mark Sherman_
 
