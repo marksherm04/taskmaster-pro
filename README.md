@@ -3,10 +3,8 @@
 ## Made with:
 
 ##### HTML
-
 ##### CSS
-
 ##### JavaScript
 
-Made by Mark Sherman
+_Made by Mark Sherman_
 
